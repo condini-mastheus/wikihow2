@@ -4,8 +4,7 @@
   "description": "This project simulates wikihow2",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "start-dev": "npx nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Matheus Condini",
   "license": "MIT",
